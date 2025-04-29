@@ -1,0 +1,16 @@
+[
+    {
+        "title": "millionaire in one sec",
+        "author": "yousuf khan",
+        "year": "2025",
+        "genre": "mystery",
+        "read": true
+    },
+    {
+        "title": "yousuf",
+        "author": "khan",
+        "year": "2025",
+        "genre": "engish",
+        "read": true
+    }
+]
